@@ -26,6 +26,8 @@ The framework supports both Adam and Stochastic Gradient Descent (SGD) optimizer
 - **Optimization Algorithms**
         - **Stochastic Gradient Descent (SGD)**
         - **Adam Optimizer**
+- **To evaluate results by accuracy**
+- **early stopping mechanism that monitors validation loss**
 
 ### Requirements
 - **Python 3.7+**
